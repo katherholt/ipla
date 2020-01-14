@@ -1,2 +1,2 @@
-# ipla
-A simple landing page for Ipla Studio.
+# Ipla Studio
+A simple landing page for Ipla Studio. 
